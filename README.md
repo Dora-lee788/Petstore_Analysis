@@ -1,14 +1,6 @@
-# Анализ результатов тестирования Petstore API
-
-Рефакторинг 38 тестовых сценариев REST API Petstore с использованием xUnit и NUnit.
-
-API: https://petstore.swagger.io/v2
-
 # Petstore API Testing — xUnit & NUnit
 
-**API:** [Petstore Swagger](https://petstore.swagger.io/)
-
-**Base URL:** `https://petstore.swagger.io/v2`
+**URL:** `https://petstore.swagger.io/v2`
 
 ## Содержание
 
