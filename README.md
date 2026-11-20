@@ -2,7 +2,7 @@
 
 Автоматизированное тестирование REST API Petstore с использованием двух фреймворков: xUnit и NUnit.
 
-**API:** [Petstore Swagger](https://petstore.swagger.io/v2)
+**Тестируемый API:** [Petstore Swagger](https://petstore.swagger.io/v2)
 
 ## Содержание
 
